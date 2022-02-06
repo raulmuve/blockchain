@@ -5,6 +5,12 @@
             "description": "Anell Or",
             "image": "https://cv.uoc.edu/mc-icons/inici/logoUOC.png?su=3",
             "name": "Anell"
+        },
+        {
+            "id": 0,
+            "description": "Anell Or",
+            "image": "https://cv.uoc.edu/mc-icons/inici/logoUOC.png?su=3",
+            "name": "Anell"
         }
     ]
 }
