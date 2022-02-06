@@ -5,30 +5,6 @@
             "description": "JMM Mustang",
             "image": "https://static.motor.es/fotos-noticias/2017/11/ford-mustang-gt-2018-shelby-gt350-2018-201741399_1.jpg",
             "name": "jmm0"
-        },
-      {
-            "id": 1,
-            "description": "JMM Mustang",
-            "image": "https://www.tuningblog.eu/wp-content/uploads/2020/11/Pettys-Garage-Ford-Mustang-GT-Tuning-Warrior-Edition-12.jpg",
-            "name": "jmm1"
-        },
-      {
-            "id": 2,
-            "description": "JMM Mustang",
-            "image": "https://hips.hearstapps.com/es.h-cdn.co/cades/contenidos/48222/mustang-shelbygt350-2019-01.jpg?resize=480:*",
-            "name": "jmm2
-        },
-      {
-            "id": 3,
-            "description": "JMM Mustang",
-            "image": "https://imgs.inventario.pro/coche/74/115749/b7f3b4d22d961772d65e34073a2b4d0b_large.jpg",
-            "name": "jmm3"
-        },
-      {
-            "id": 4,
-            "description": "JMM Mustang",
-            "image": "https://i.bstr.es/highmotor/2019/07/ord-mustang-gt-prueba22-880x660.jpg",
-            "name": "jmm4"
         }
     ]
 }
